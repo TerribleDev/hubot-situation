@@ -1,28 +1,21 @@
 {
   "name": "hubot-situation",
   "description": "hubot that quotes the situation from jersey shore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Tommy Parnell <tparnell8@gmail.com>",
   "license": "MIT",
-
   "keywords": "hubot, hubot-scripts",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/tparnell8/hubot-situation/issues"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-situation/issues"
   },
-
-  "dependencies": {
-  },
-
+  "dependencies": {},
   "peerDependencies": {
     "hubot": "2.x"
   },
-
   "devDependencies": {
     "chai": "^2.1.1",
     "coffee-script": "1.6.3",
@@ -37,9 +30,7 @@
     "sinon": "^1.13.0",
     "sinon-chai": "^2.7.0"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
   }
