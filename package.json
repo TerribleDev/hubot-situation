@@ -1,16 +1,16 @@
 {
-  "name": "hubot-hubot-situation",
+  "name": "hubot-situation",
   "description": "a hubot script that puts in quotes from the situation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Tommy Parnell <tparnell8@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-situation.git"
+    "url": "https://github.com/tparnell8/hubot-situation"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-situation/issues"
+    "url": "https://github.com/tparnell8/hubot-situation/issues"
   },
   "dependencies": {},
   "peerDependencies": {
