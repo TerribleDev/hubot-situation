@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#  situation quote - gives you a quote from the situation
+#  hubot situation quote - gives you a quote from the situation
 #
 # Author:
 #   tparnell
