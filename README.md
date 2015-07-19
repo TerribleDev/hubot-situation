@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tparnell8/hubot-situation.svg?branch=v0.0.6)](https://travis-ci.org/tparnell8/hubot-situation).
+
 # hubot-situation
 
 hubot that quotes the situation from jersey shore
