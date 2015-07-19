@@ -1,7 +1,7 @@
 {
   "name": "hubot-hubot-situation",
   "description": "a hubot script that puts in quotes from the situation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Tommy Parnell <tparnell8@gmail.com>",
   "license": "MIT",
 
