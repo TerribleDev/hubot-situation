@@ -1,7 +1,7 @@
 {
   "name": "hubot-situation",
   "description": "hubot that quotes the situation from jersey shore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tommy Parnell <tparnell8@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
