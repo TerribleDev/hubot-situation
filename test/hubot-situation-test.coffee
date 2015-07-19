@@ -12,8 +12,8 @@ describe 'hubot-situation', ->
 
     require('../src/hubot-situation')(@robot)
 
-  it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/hello/)
+  it 'registers a respond listener for situation quote', ->
+    expect(@robot.respond).to.have.been.calledWith(/situation quote/)
 
-  it 'registers a hear listener', ->
-    expect(@robot.hear).to.have.been.calledWith(/orly/)
+  it 'registers a respond listener', ->
+    expect(@robot.respond).to.have.been.calledWith(/situation/)
