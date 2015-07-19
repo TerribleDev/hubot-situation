@@ -21,6 +21,6 @@ Then add **hubot-situation** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot situation quote
+hubot>> If I walked in the door and saw myself? I'd grab my girl really quick!
 ```

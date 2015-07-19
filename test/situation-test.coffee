@@ -14,6 +14,3 @@ describe 'situation', ->
 
   it 'registers a respond listener for situation quote', ->
     expect(@robot.respond).to.have.been.calledWith(/situation quote/)
-
-  it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/situation/)
