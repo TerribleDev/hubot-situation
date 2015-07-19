@@ -9,10 +9,3 @@ cache:
   - node_modules
 notifications:
   email: false
-deploy:
-  provider: npm
-  email: tparnell8@gmail.com
-  api_key:
-    secure: UIiw+FHz2dYOp4By8i/vChPk5kKh5YkR+4hY/0Bd/94kv0Z2KMCzrUtiO+Zn2oNjsrMF4wQTkHEkN51/Ld45HaUeSKpzHnRF2odfIHNMvOmisQOtYGYfDB+i84aZqP6i5im+rhJcf8ocCamyfO7u3OgBGrg4/YrnqaDFSxXnrkqDsghnlLB8N8V8w9lGShTwb962vQF3tbZGGgTl/jMgYmjnAXa6axyStvTiwbyXQJxBgNuwiN1eXWxFvH1RKgMEzKpZuFlFvSdfUAdE8g3I/F9kLzLTqlmCCp+J/LtyCykOQ5ZxRBqUs1GM+mcmo12mGouJOoecm7YjuT+4yR+tZ2d2Bzw/ZDybpGNnW49M4L8ApBQXgIcIAsEhZEUC9TWoBywuqnNYoWfjdxWfRf/cqPM4WqtmNnMyFXiZvMDjYnkSUshxczVtvU26njMQAXCdqHRKCxlaJFBsLF8keJ8AF7dZd5TM9u6Hz2mZxct7/jQZjqH7/oU7MoSV56cQO9ohcqLLUXC+skfyIK7evIbc7xjyhYSmWtxmZ34kI2QiVogkVl58PhptC7TIQ1W1IpayqD3sxoDurRUxOYNWiRvgHaztFC3h/JwRX1caC3XNNJ56F1E9jQCxfIbWfhJ+kJmHnm/kTSdtoMYmugboY7WwcvsBPASsK/7jov7tNdUY+fI=
-  on:
-    repo: tparnell8/hubot-situation
