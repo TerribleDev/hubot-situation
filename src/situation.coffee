@@ -30,4 +30,4 @@ quotes = [
 
 module.exports = (robot) ->
   robot.respond /situation quote/, (res) ->
-    res.reply res.random quotes
+    res.send res.random quotes
